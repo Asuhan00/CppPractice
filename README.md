@@ -1,2 +1,2 @@
 # CppPractice
-Cpp öğrenirken yazdığım kodlar
+Codes I wrote while learning c++
